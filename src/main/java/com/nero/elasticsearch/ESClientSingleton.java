@@ -78,7 +78,7 @@ public class ESClientSingleton {
         staticPort = port;
     }
 
-    public static TransportClient get() {
+    static TransportClient get() {
 
         if (client == null) {
             synchronized (ESClientSingleton.class) {

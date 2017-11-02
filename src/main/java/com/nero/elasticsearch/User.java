@@ -1,6 +1,7 @@
 package com.nero.elasticsearch;
 
 import lombok.Data;
+import lombok.ToString;
 
 import java.io.Serializable;
 
@@ -14,12 +15,8 @@ import java.io.Serializable;
  * @author Nero
  */
 @Data
+@ToString
 public class User implements Serializable {
-
-    /**
-     * id
-     */
-    private Integer id;
 
     /**
      * 名称
@@ -27,9 +24,9 @@ public class User implements Serializable {
     private String name;
 
     /**
-     * 邮箱
+     * 描述
      */
-    private String email;
+    private String desc;
 
     /**
      * 年龄

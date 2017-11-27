@@ -1,4 +1,4 @@
-package com.nero.elasticsearch;
+package com.nero.elasticsearch.elasticsearch;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

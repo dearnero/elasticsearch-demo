@@ -1,4 +1,4 @@
-package com.nero.elasticsearch;
+package com.nero.elasticsearch.elasticsearch;
 
 import lombok.Data;
 import lombok.ToString;

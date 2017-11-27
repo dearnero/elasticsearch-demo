@@ -1,4 +1,4 @@
-package com.nero.elasticsearch;
+package com.nero.elasticsearch.elasticsearch;
 
 import com.alibaba.fastjson.JSON;
 import org.elasticsearch.action.search.SearchRequestBuilder;

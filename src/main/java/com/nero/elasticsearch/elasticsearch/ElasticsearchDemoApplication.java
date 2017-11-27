@@ -1,4 +1,4 @@
-package com.nero.elasticsearch;
+package com.nero.elasticsearch.elasticsearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

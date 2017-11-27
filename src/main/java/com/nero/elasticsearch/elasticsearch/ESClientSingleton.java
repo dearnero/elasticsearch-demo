@@ -1,4 +1,4 @@
-package com.nero.elasticsearch;
+package com.nero.elasticsearch.elasticsearch;
 
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.Strings;
